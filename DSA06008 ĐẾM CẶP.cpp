@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // x < y => x^y > y^x
+// tru cap 2 3, 2 4
 
 int cnt[5];
 
